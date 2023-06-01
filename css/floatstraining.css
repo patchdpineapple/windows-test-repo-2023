@@ -1,0 +1,22 @@
+header {
+    height: 100px;
+    background-color: antiquewhite;
+}
+
+.box-container {
+    background-color: royalblue;
+    width: fit-content;
+    height: fit-content;
+}
+
+.box {
+    background-color: hotpink;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+footer {
+    height: 100px;
+    background-color: aqua;
+}
